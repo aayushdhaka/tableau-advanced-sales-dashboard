@@ -1,0 +1,28 @@
+# Advanced Sales Dashboard (Tableau)
+
+## Overview
+This project presents an advanced Tableau dashboard designed to analyze
+sales performance across regions, products, and time periods to support
+data-driven business decisions.
+
+## Tool Used
+- Tableau
+
+## Dataset
+- Sample sales dataset (static data)
+
+## Dashboard Features
+- Revenue and quantity analysis by region
+- Monthly revenue trend analysis
+- Product-level sales performance
+- Regional customer rating analysis
+- Interactive dashboard views for business users
+
+## Key Insights
+- West and Central regions generate the highest revenue
+- North region consistently underperforms and needs strategic improvement
+- Certain products significantly outperform others
+- Sales trends show seasonal fluctuations
+
+## Screenshots
+See the `dashboard_screenshots` folder for dashboard visuals.
