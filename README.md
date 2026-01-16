@@ -1,3 +1,12 @@
+## Why this project?
+A sales team needs a clear and interactive dashboard to track sales performance, identify high-performing regions and products, and support data-driven decision-making.
+
+## Use Case
+This dashboard is designed for sales managers and business leaders to:
+- Monitor overall sales performance
+- Compare regional and product-level sales
+- Identify growth opportunities and underperforming areas
+
 # Advanced Sales Dashboard (Tableau)
 
 ## Overview
