@@ -29,6 +29,11 @@ The dashboard tracks the following key performance indicators:
 - Sales show clear seasonal trends across months
 - Some regions generate high sales but low profit, indicating cost or discount issues
 
+## Business Actions & Decisions
+- Focus sales efforts on high-performing regions to maximize revenue
+- Improve profitability in low-margin regions by reviewing pricing and discount strategies
+- Increase promotion of top-performing product categories
+- Use seasonal trends to plan inventory and marketing campaigns in advance
 
 # Advanced Sales Dashboard (Tableau)
 
