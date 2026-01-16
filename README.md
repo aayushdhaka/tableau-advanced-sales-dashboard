@@ -23,6 +23,12 @@ The dashboard tracks the following key performance indicators:
 - Sales by Product Category
 - Monthly and Yearly Sales Trends
 
+## Key Insights
+- Certain regions consistently outperform others in total sales and profit
+- A small number of product categories contribute the majority of revenue
+- Sales show clear seasonal trends across months
+- Some regions generate high sales but low profit, indicating cost or discount issues
+
 
 # Advanced Sales Dashboard (Tableau)
 
