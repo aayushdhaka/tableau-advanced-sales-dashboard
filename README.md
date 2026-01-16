@@ -7,6 +7,14 @@ This dashboard is designed for sales managers and business leaders to:
 - Compare regional and product-level sales
 - Identify growth opportunities and underperforming areas
 
+## Data Used
+The dataset includes sales transaction data such as:
+- Order date
+- Region
+- Product category
+- Sales amount
+- Profit
+
 # Advanced Sales Dashboard (Tableau)
 
 ## Overview
