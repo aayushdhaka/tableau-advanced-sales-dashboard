@@ -15,6 +15,15 @@ The dataset includes sales transaction data such as:
 - Sales amount
 - Profit
 
+  ## Key Metrics & KPIs
+The dashboard tracks the following key performance indicators:
+- Total Sales
+- Total Profit
+- Sales by Region
+- Sales by Product Category
+- Monthly and Yearly Sales Trends
+
+
 # Advanced Sales Dashboard (Tableau)
 
 ## Overview
